@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+## Notion Link
+https://www.notion.so/Frontend-Task-Kanban-Board-0db10f6280a645f4b8a677cafde26d77?pvs=4
+
 ## Getting Started
 
 Before starting use command 
